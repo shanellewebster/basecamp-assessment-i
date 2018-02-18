@@ -45,13 +45,6 @@ var colorResponse;
 
 var responseCreator = function(param){
 
-	if colorResponse ==== 'green'{
-		return 'Green is okay';
-	}else if colorResponse ==='red'){
-  		return 'I heart red';
-  	}else{
-  		return 'What is your favorite color?';
-}
 }
 
 // #9 Create a function called 'sum' that takes in a parameter and returns the sum of that parameter.
@@ -59,7 +52,7 @@ var responseCreator = function(param){
 function sum (x){
 	return (x+x);
 }
- sum(9)
+ sum(9);
 
 // #10 Create a function called greeter that takes in two parameters, name(a string) and number(a number). Have greeter return a string that says something like this 'Hi! I am Bryan and I am 28 years old" but with the appropriate values.
 
